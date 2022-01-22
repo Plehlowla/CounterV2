@@ -1,5 +1,5 @@
 # CounterV2
  
-!(counters)[positiveCounter.png]
-!(counters)[neutrelCounter.png]
-!(counters)[negativelCounter.png]
+!(counters1)[positiveCounter.png]
+!(counters2)[neutrelCounter.png]
+!(counters3)[negativelCounter.png]
